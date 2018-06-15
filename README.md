@@ -3,12 +3,17 @@ My submission and associated files for the 2009 UCLA Pandemic Programming Contes
 
 I did not win.
 
-TODO: Add an image
+![screenshot](./screenshot.png)
 
 ### How To Run
 
-TODO
+Running Visual Studio 15.2 (26430.15)
+- In project properties > General
+  - Set `Output Directory` to `../../Game/AIBots/`
+- In project properties > Debugging
+  - Set `Command` to `$(ProjectDir)../../Game/bin/sauerbraten.exe`
+  - Set `Command Arguments` to `-t`
+  - Set `Working Directory` to `$(ProjectDir)../../Game`
+- Click `Local Windows Debugger`
 
-### Approach
-
-TODO
+TODO: Verify
