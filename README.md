@@ -4,3 +4,11 @@ My submission and associated files for the 2009 UCLA Pandemic Programming Contes
 I did not win.
 
 TODO: Add an image
+
+### How To Run
+
+TODO
+
+### Approach
+
+TODO
