@@ -17,5 +17,4 @@ Running Visual Studio 15.2 (26430.15)
   - Set `Command Arguments` to `-t`
   - Set `Working Directory` to `$(ProjectDir)../../Game`
 - Click `Local Windows Debugger`
-
-TODO: This seems to run the GoTo Bot but not GarrBot?
+- AIBot is built to `/Game/AIBots/GotoBot.dll` by default and the game is started!
