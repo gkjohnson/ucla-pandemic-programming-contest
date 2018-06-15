@@ -7,6 +7,8 @@ I did not win.
 
 ### How To Run
 
+Originally built with Visual Studio 2008
+
 Running Visual Studio 15.2 (26430.15)
 - In project properties > General
   - Set `Output Directory` to `../../Game/AIBots/`
@@ -16,4 +18,4 @@ Running Visual Studio 15.2 (26430.15)
   - Set `Working Directory` to `$(ProjectDir)../../Game`
 - Click `Local Windows Debugger`
 
-TODO: Verify
+TODO: This seems to run the GoTo Bot but not GarrBot?
